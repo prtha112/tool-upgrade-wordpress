@@ -1,0 +1,6 @@
+https://downloads.wordpress.org/plugin/wordpress-seo.23.9.zip
+https://downloads.wordpress.org/plugin/seo-by-rank-math.1.0.233.zip
+https://downloads.wordpress.org/plugin/elementor.3.25.10.zip
+https://downloads.wordpress.org/plugin/header-footer-elementor.2.0.2.zip
+https://downloads.wordpress.org/plugin/jetpack.14.0.zip
+https://downloads.wordpress.org/plugin/bdthemes-prime-slider-lite.3.15.23.zip
